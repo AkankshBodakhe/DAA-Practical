@@ -41,6 +41,8 @@ class prac1{
         else
             System.out.println("Element is present at "
                                + "index " + result);
+
+        sc.close();
     }
 }
 
